@@ -1,0 +1,14 @@
+__pycache__/
+venv311/
+venv312/
+allure_results/
+allure-results/
+*.pyc
+*.pyd
+.pytest_cache/
+*.log
+*.sqlite3
+Thumbs.db
+venv/
+env/
+.idea
